@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '蒋美慧宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'gh_39ce90801772',
+      id: 'osy-S6bUOHa3SktmmatMlhna0-WY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'jkOMIOiql3Boi4v50zQ89WpKSNdBRjs_xf8d_uZXPz0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -54,16 +54,16 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: 'jkOMIOiql3Boi4v50zQ89WpKSNdBRjs_xf8d_uZXPz0',
 
   CALLBACK_USERS: [
-    // {
-    //   name: '自己',
-    //   // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-    //   id: 'osy-S6UC-xOoxjy0NValrpAQGL7A',
-    // },
-        {
-      name: 'meimei',
+    {
+      name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'osy-S6bUOHa3SktmmatMlhna0-WY',
+      id: 'osy-S6UC-xOoxjy0NValrpAQGL7A',
     },
+    //     {
+    //   name: 'meimei',
+    //   // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+    //   id: 'osy-S6bUOHa3SktmmatMlhna0-WY',
+    // },
   ],
 
 }
