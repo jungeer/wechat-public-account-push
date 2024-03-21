@@ -54,11 +54,11 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: 'jkOMIOiql3Boi4v50zQ89WpKSNdBRjs_xf8d_uZXPz0',
 
   CALLBACK_USERS: [
-    {
-      name: '自己',
-      // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'osy-S6UC-xOoxjy0NValrpAQGL7A',
-    },
+    // {
+    //   name: '自己',
+    //   // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+    //   id: 'osy-S6UC-xOoxjy0NValrpAQGL7A',
+    // },
         {
       name: 'meimei',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
